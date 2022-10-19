@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "00466222c1b35203",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0c65d6eac44fd4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "826a3cc28e2431eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sofrware Testing/Test Driven Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "867f350ba9a10b2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sofrware Testing/MC DC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad3c9154a2357654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sofrware Testing/Test Driven Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e389a7522f5c7d0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "30138b1b848c7607",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ddf0b98f72c6c7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9f9e4d9206cabd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8e779ad39558e30",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96e376821566db8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4196e7bd72ecbb2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97faee9efed03194",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sofrware Testing/Test Driven Development.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36a1f2b9e432ff26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sofrware Testing/Test Driven Development.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0974d5afee8b9706",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c775fae3a5e79068",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sofrware Testing/Test Driven Development.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "ad3c9154a2357654",
+  "lastOpenFiles": [
+    "Sofrware Testing/MC DC.md",
+    "Sofrware Testing/Test Driven Development.md",
+    "Mutation testing.md"
+  ]
+}
