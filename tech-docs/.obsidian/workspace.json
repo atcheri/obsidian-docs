@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c0c65d6eac44fd4e",
+        "id": "ade7183d327dc27e",
         "type": "tabs",
         "children": [
           {
-            "id": "826a3cc28e2431eb",
+            "id": "f982b69fd3e22b37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sofrware Testing/Test Driven Development.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "867f350ba9a10b2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sofrware Testing/MC DC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad3c9154a2357654",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sofrware Testing/Test Driven Development.md",
+                "file": "Sofrware Testing/TDD/Build a Card component in React.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sofrware Testing/Test Driven Development.md",
+                "file": "Sofrware Testing/TDD/Build a Card component in React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sofrware Testing/Test Driven Development.md",
+                "file": "Sofrware Testing/TDD/Build a Card component in React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sofrware Testing/Test Driven Development.md"
+                "file": "Sofrware Testing/TDD/Build a Card component in React.md"
               }
             }
           }
@@ -163,10 +138,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ad3c9154a2357654",
+  "active": "f982b69fd3e22b37",
   "lastOpenFiles": [
-    "Sofrware Testing/MC DC.md",
-    "Sofrware Testing/Test Driven Development.md",
-    "Mutation testing.md"
+    "Pasted image 20221202100022.png.md",
+    "Sofrware Testing/TDD/Build a Card component in React.md",
+    "Pasted image 20221202100022.png",
+    "Sofrware Testing/TDD/Test Driven Development.md",
+    "react-card-component.png",
+    "20221202085658.png.md",
+    "Sofrware Testing/TDD/Simple nodejs example.md",
+    "Sofrware Testing/TDD/Intro.md",
+    "Sofrware Testing/TDD/Kiss & Yagni.md",
+    "Training/Coding Kata.md"
   ]
 }
