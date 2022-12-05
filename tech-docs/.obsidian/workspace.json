@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ade7183d327dc27e",
+        "id": "734159a6a72d3949",
         "type": "tabs",
         "children": [
           {
-            "id": "f982b69fd3e22b37",
+            "id": "decb11b15ed4fd25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sofrware Testing/TDD/Build a Card component in React.md",
+                "file": "Sofrware Testing/TDD/Build a Card component in React/Cycle 1 - How to start.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79f07b202663d3bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sofrware Testing/TDD/Build a Card component in React/Cycle 9 - Styling the components with Tailwind.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sofrware Testing/TDD/Build a Card component in React.md",
+                "file": "Sofrware Testing/TDD/Build a Card component in React/Cycle 1 - How to start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sofrware Testing/TDD/Build a Card component in React.md",
+                "file": "Sofrware Testing/TDD/Build a Card component in React/Cycle 1 - How to start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,30 +137,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sofrware Testing/TDD/Build a Card component in React.md"
+                "file": "Sofrware Testing/TDD/Build a Card component in React/Cycle 1 - How to start.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "f982b69fd3e22b37",
+  "active": "decb11b15ed4fd25",
   "lastOpenFiles": [
-    "Pasted image 20221202100022.png.md",
-    "Sofrware Testing/TDD/Build a Card component in React.md",
-    "Pasted image 20221202100022.png",
-    "Sofrware Testing/TDD/Test Driven Development.md",
-    "react-card-component.png",
-    "20221202085658.png.md",
-    "Sofrware Testing/TDD/Simple nodejs example.md",
-    "Sofrware Testing/TDD/Intro.md",
-    "Sofrware Testing/TDD/Kiss & Yagni.md",
-    "Training/Coding Kata.md"
+    "Sofrware Testing/TDD/Build a Card component in React/Cycle 0 - Introduction.md",
+    "Sofrware Testing/TDD/Build a Card component in React/Cycle 1 - How to start.md",
+    "Sofrware Testing/TDD/Build a Card component in React/Cycle 8 - The button click handler.md",
+    "Sofrware Testing/TDD/Build a Card component in React/Cycle 7 - Refactoring code from Card to DateFormatter.md",
+    "Sofrware Testing/TDD/Build a Card component in React/Cycle 9 - Styling the components with Tailwind.md",
+    "Sofrware Testing/TDD/Build a Card component in React/Styling the Card component with Tailwind.md",
+    "Sofrware Testing/TDD/Build a Card component in React/Cycle 5 - What about a non ISO-8601 date ?.md",
+    "Sofrware Testing/TDD/Build a Card component in React/Cycle 6 - The DateFormatter component.md",
+    "Sofrware Testing/TDD/Build a Card component in React/Cycle 4 - Date in ISO-8601.md",
+    "Sofrware Testing/TDD/Build a Card component in React/Cycle 2 - The \"title\" prop.md"
   ]
 }
